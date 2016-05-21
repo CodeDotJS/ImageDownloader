@@ -1,4 +1,13 @@
-# mass-image-downloader
-an easy way to download all the image of website when they are fully loaded
+## Image Downloader
 
-Just paste the code in Chrome's JavaScrit Console to download all the images of a website.
+> an easy way to download all the image of website when they are fully loaded
+
+__NOTE__
+
+```
+This repository contains diced part of the complete code.
+So, for full code - visit ImageSwag.
+```
+
+
+
